@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 🎮 Games that i love : **Genshin, CS:GO, osu!**
+- 🎮 Games that i love : **Genshin Impact, CS:GO, osu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
