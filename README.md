@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xifted/Vincent(Real Name)</h1>
-<h3 align="center">A random, Web, Desktop, and Mobile Application Developer</h3>
+<h3 align="center">A random, Web Developer</h3>
 
 - 🔭 I’m currently working on <a href="" target="_blank" style="text-decoration:none; color:#CC8899;">Brance</a>
 
