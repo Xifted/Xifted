@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on <a href="#" target="_blank" style="text-decoration:none; color:#CC8899;">Atlantis Service Indonesia Sales Website</a> Project
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **REACT**
 
-- 🎮 Games that i love : **Genshin Impact, CS:GO, osu!**
+- 🎮 Games that i love : **Genshin Impact, CS:GO, osu!, Honkai Star Rail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
