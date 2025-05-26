@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafi</h1>
 <h3 align="center">A random, Web Developer</h3>
 
-- 🔭 WIP Project: <a href="https://github.com/Xifted/Remaja-TI" target="_blank" style="text-decoration:none; color:#CC8899;">Remaja IT</a>
+- 🔭 WIP Project: <a href="#" target="_blank" style="text-decoration:none; color:#CC8899;">-</a>
 
 - 🌱 I’m currently learning **REACT**
 
